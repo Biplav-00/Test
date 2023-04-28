@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-i am topi
-=======
-hello 
->>>>>>> Stashed changes
+biplap is a good boy.
